@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+nav div {
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+}
